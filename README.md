@@ -15,4 +15,4 @@ The code is written by Python language. Before running it, the following librari
 * matplotlib
 * * *
 # Instruction
-The independent variables are prepared on the GIS and ENVI platform. Then the susceptibility maps are generated using Python language. 
+The independent variables are prepared on the GIS and ENVI platform. Then the susceptibility maps are generated using Python language. Because the data in this study subject to third party restrictions, we hide the latitude and longitude in the data file.

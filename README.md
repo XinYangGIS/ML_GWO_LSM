@@ -1,5 +1,5 @@
 # ML_GWO_LSM
-Computer code available for CAGEO
+Computer code availability for CAGEO
 * * *
 # Experiment environment
 OS: Windows 10</br>

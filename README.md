@@ -2,8 +2,8 @@
 Computer code available for CAGEO
 * * *
 # Experiment environment
-OS: Windows 10
-Memory: 8G
+OS: Windows 10</br>
+Memory: 8G</br>
 IDE: VScode
 * * *
 # Dependencies
